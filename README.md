@@ -23,5 +23,6 @@ Iconset: Papirus-dark
 - User Themes
 - Virals
 
-#Wallpaper
-<img src = "wallpaper.png" />
+# Wallpaper
+
+<img src = "wallpaper.jpg" />
