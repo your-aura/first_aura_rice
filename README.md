@@ -5,7 +5,9 @@ And then I was like, I've made my first rice. You can put this beauty in your gn
 <img src = "dos.png" />
 <img src = "tres.png" />
 <img src = "cuatro.png" />
+
 # What I use
+
 Linux distribution: Fedora 38
 
 Gnome version: 44
