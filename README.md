@@ -1,6 +1,10 @@
 # first_aura_rice
-# Screenshot
 
+# Screenshot
+<img src = "uno.png" />
+<img src = "dos.png" />
+<img src = "tres.png" />
+<img src = "cuatro.png" />
 # What I use
 Linux distribution: Fedora 38
 
